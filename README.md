@@ -1,6 +1,8 @@
 # discord-owo-stat-bot
 
-Gereksiz bir bot
+Discord üzerinde bulunan owo botunun stat (istatistik) botudur, bot tamamen gereksizdir. Botta halla hatalar bulunmaktadır eğer hataları düzeltip kullanmak isterseniz discord üzerinden bana ulaşın Kinoshi#0017
+
+Bot Discord.js v13'dür
 
 [İçerikler](#içerikler),
 [Kurulum](#kurulum)
