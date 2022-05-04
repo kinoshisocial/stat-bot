@@ -1,0 +1,5 @@
+{
+    "token": "tokenini buraya yaz yaw",
+    "prefix": "!",
+    "mongooseConnectionString": "mongo url'yi yaz veya localhost kullan al localhost url: mongodb://localhost:27017/kinoshi"
+}
